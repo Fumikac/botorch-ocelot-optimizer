@@ -3,4 +3,4 @@ Exerpt of Botorch (Bayesian Optimization in PyTorch) class written for [Ocelot o
 
 This [class file](gp_botorch.py) can be put under /op_methods. 
 
-Rest of codes can be found in Lawrence Berkeley National Lab BELLA center [Github](https://github.com/BellaCenter).
+Rest of codes can be found in Lawrence Berkeley National Lab BELLA center [Github account](https://github.com/BellaCenter) (private).
